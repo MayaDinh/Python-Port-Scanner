@@ -1,5 +1,6 @@
 # Python Port Scanner
-### A lightweight Python script that scans specified IP addresses for open/closed ports.
+A lightweight Python script that scans specified IP addresses for open/closed ports, using mainly the socket module.
+
 
 ### How do I run this script?
 1. Download the file and/or clone the respository.
